@@ -25,7 +25,7 @@ SECRET_KEY = 'x+1l&85^sezgefc7er&t6p&^ti2cr_z$loo^$s+z-4=e(+(=p+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [127.0.0.1,'localhost', 'http://practicework.herokuapp.com/','https://practicework.herokuapp.com/']
+ALLOWED_HOSTS = [127.0.0.1,'localhost', 'http://projectqwerty.herokuapp.com/','https://projectqwerty.herokuapp.com/']
 
 
 # Application definition
