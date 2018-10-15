@@ -31,13 +31,13 @@ ALLOWED_HOSTS = [127.0.0.1,'localhost', 'http://projectqwerty.herokuapp.com/','h
 # Application definition
 
 INSTALLED_APPS = [
-    'home.apps.HomeConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'home',
 ]
 
 MIDDLEWARE = [
