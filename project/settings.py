@@ -25,7 +25,7 @@ SECRET_KEY = '1(s$4_&&^wn@5kg^87f+@^$hcmlw7#h&z*_=r0-3z58qz#iab@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [127.0.0.1,'localhost', 'http://projectqwerty.herokuapp.com/','https://projectqwerty.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'http://projectqwerty.herokuapp.com/','https://projectqwerty.herokuapp.com/']
 
 
 # Application definition
